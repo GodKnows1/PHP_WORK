@@ -1,0 +1,359 @@
+body{
+	line-height: 1.4em;
+    background: linear-gradient(rgba(255, 255, 255, 0.8),
+              rgba(255, 255, 255, 0.8),
+              rgba(255, 255, 255, 0.8),
+              rgba(255, 255, 255, 0.8)),
+              url(Images/95129.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+a{
+	color: black;
+	text-decoration: underline;
+}
+
+ul{
+	padding: 0;
+}
+
+.clr{
+	clear: both;
+}
+
+#container{
+
+	width:1200px;
+	margin:30px auto;
+	overflow:hidden;
+	padding:10px;
+}
+
+#nav{
+    margin-top: 30px;
+    text-align: center;
+	height: 40px;
+}
+
+#nav ul{
+	padding-top: 17px;
+	padding-left: 10px;
+}
+
+#nav li{
+	list-style:none;
+    display:inline;
+    border-right: 3px solid black;
+}
+
+#nav li:last-child{
+    border-right: none;
+    padding-right: 70px;
+}
+
+#nav li:first-child{
+    padding-left:px;
+}
+
+#nav .active{
+	font-weight: bold;
+	color: #000000;
+}
+
+#nav ul li a{
+    font-family: 'Montserrat';
+    padding:0 25px;
+    text-decoration:none;
+    font-size: 20px;
+    transition: font-size 0.3s ease;
+    -webkit-transition: font-size 0.3s ease;
+    -moz-transition: font-size 0.3s ease;
+    -o-transition: font-size 0.3s ease;
+    -ms-transition: font-size 0.3s ease;
+}
+
+#nav ul li a:hover{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+#main{
+    margin-top: 25px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+	float:left;
+	width: 60%;
+}
+
+#sidebar{
+    font-weight: bold;
+    font-family: 'Montserrat';
+	float: right;
+	width: 20%;
+	padding: 60px;
+}
+
+#footer{
+    font-weight: bold;
+	text-align: center;
+	padding:10px;
+	margin-top: 30px;
+}
+
+.services li{
+	border-bottom: 2px #666 dashed;
+	padding-bottom: 20px;
+}
+.services a{
+	background: #666;
+	padding:10px;
+}
+
+input, textarea{
+	width: 100%;
+	padding: 5px;
+	margin-bottom: 15px;
+}
+#header {
+    height:150px;
+    margin-top: 0px;
+}
+
+#header img{
+    float:right;
+    padding-top: 0;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+#header h1{
+    font-size: 400%;
+    text-decoration: underline;
+    font-family:'Comic Sans MS','Times New Roman';
+}
+
+#header h3{
+    font-size: 150%;
+    font-family: 'Comic Sans MS','Times New Roman';
+    margin-top: 65px;
+
+}
+
+.user button{
+    font-weight: bold;
+    font-size: 90%;
+    border-radius: 8px;
+    background-color:#75a7d1;
+    color: white;
+}
+
+.cuisines option {
+    position: relative;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    background-color: #a1e6ff;
+}
+
+.cuisines{
+    border:1px solid black;
+    background-color: transparent;
+}
+
+
+
+.tab-group li {
+    border:1px solid black;
+    display: inline;
+    font-weight: bold;
+    font-size: 30px;
+    padding:20px;
+    background-color:#75a7d1;
+    border-radius: 10px
+}
+
+.tab-group li a{
+    color:cornsilk;
+}
+
+
+.tab-group{
+    padding-top: 70px;
+    text-align: center;
+    display:inline-table;
+}
+
+.form {
+    text-align: center;
+}
+
+#signup {
+    padding-top: 60px;
+    width:400px;
+    margin:auto;
+}
+
+#signup h1{
+    font-size: 300%;
+    font-family: 'Montserrat';
+    text-decoration: underline;
+}
+
+#login {
+    padding-top: 100px;
+    width:400px;
+    margin:auto;
+}
+
+#login button{
+    font-weight: bold;
+    font-size: 150%;
+    padding:7px;
+    border-radius: 10px;
+    background-color:#75a7d1;
+    color: white;
+}
+
+#login h1{
+    font-size: 300%;
+    text-decoration: underline;
+    font-family: 'Montserrat';
+}
+
+.tab {
+    padding-top: 10px;
+    text-align: center;
+    display:inline-table;
+    font-size: 120%;
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+
+.tab a{
+    text-decoration: underline;
+}
+
+.tab a:hover{
+    font-size:130%;
+    transition: font-size 0.3s ease;
+}
+
+.top-row {
+    padding-top: 30px;
+}
+
+.top-row button{
+    font-weight: bold;
+    font-size: 150%;
+    padding:7px;
+    border-radius: 10px;
+    background-color:#75a7d1;
+    color: white;
+}
+
+.top-row input{
+    font-size: 30px;
+    height: 15px;
+    padding-top: 10px;
+}
+
+.top-row label{
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+
+.field-wrap label{
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+
+form {
+    text-align: center;
+}
+
+.field-wrap {
+    padding-top: 30px;
+}
+
+
+.field-wrap input{
+    font-size: 30px;
+    height: 15px;
+    padding-top: 10px;
+}
+
+.forgot {
+    text-decoration: underline;
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+
+
+.dropdown {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1; 
+}
+
+.dropdown a{
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.cuisine:hover .dropdown{
+    position:absolute;
+    display:inline-block;
+}
+
+.signup:hover {
+    font-size: 20px;
+    transition: font-size 0.3s ease;
+}
+
+#contact {
+    width:500px; 
+    margin:auto;
+}
+
+#msg input{
+    font-size: 30px;
+    height: 15px;
+    padding-top: 10px;
+}
+
+#msg textarea{
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+#msg button{
+    font-weight: bold;
+    font-size: 90%;
+    border-radius: 8px;
+    background-color:#75a7d1;
+    color: white;
+}
+
+.services li:first-child{
+    padding-top: 10px;
+}
+
+.services li a{
+   font-weight: bold;
+    font-size: 90%;
+    border-radius: 8px;
+    background-color:#75a7d1;
+    color: white; 
+}
+
+.services h3{
+    font-size: 130%;
+}
