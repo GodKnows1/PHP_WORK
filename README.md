@@ -1,3 +1,7 @@
+To run open any server eg xampp -> run Apache -> run MysQL and on chrome write http://localhost/<Folder_name>/after_login/index1.php
+
+Details on the phpMyAdmin will be updated
+
 Recipe-Sharing Website: Khana-Kosh
 Tried to create a website where users can share their prepared recipes among others and can also search the recipes for different cuisines they’d like to prepare. We have
 used the functionalities of HTML, CSS, Javascript, Jquery and PHP to implement the site.
