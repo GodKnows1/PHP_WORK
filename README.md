@@ -2,24 +2,41 @@ Recipe-Sharing Website: Khana-Kosh
 Tried to create a website where users can share their prepared recipes among others and can also search the recipes for different cuisines they’d like to prepare. We have
 used the functionalities of HTML, CSS, Javascript, Jquery and PHP to implement the site.
 
-Home Page: 
 
-Sign-up Page for new users: 
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i1.png?raw=true "Title")
 
-Login Page registered users:
 
-Page for posting your recipe once you’ve logged in: 
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i2.png?raw=true "Title")
 
-Page for searching for a recipe: 
 
-A contact page for the users to get in touch with the admin: 
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i3.png?raw=true "Title")
 
-Page that shows the featured recipes: 
 
-Clicking on read more will show the details of all the recipes posted for the dish: 
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i4.png?raw=true "Title")
 
-Page that shows the top cuisines for which recipes are posted: 
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i5.png?raw=true "Title")
 
-Clicking on explore more shows all the recipes posted under that cuisine:
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i6.png?raw=true "Title")
 
-Page that allows the user to search for a recipe that has been already posted:
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i7.png?raw=true "Title")
+
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i8.png?raw=true "Title")
+
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i9.png?raw=true "Title")
+
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i10.png?raw=true "Title")
+
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i11.png?raw=true "Title")
+
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i12.png?raw=true "Title")
+
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i13.png?raw=true "Title")
+
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i14.png?raw=true "Title")
+
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i15.png?raw=true "Title")
+
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i16.png?raw=true "Title")
+
+![Alt text](https://github.com/GodKnows1/PHP_WORK/tree/master/Images/i17.png?raw=true "Title")
+
